@@ -60,7 +60,6 @@ python3 lulu.py https://your-ngrok-url/send_data
 
 ```
 sudo apt update
-sudo apt install python3-picamera2 -y
 sudo apt install python3-opencv -y
 ```
 
